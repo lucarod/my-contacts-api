@@ -9,7 +9,7 @@
   "dependencies": {
     "define-data-property": "^1.1.1",
     "express": "^4.18.2",
-    "uuid": "^9.0.1"
+    "pg": "^8.11.3"
   },
   "devDependencies": {
     "eslint": "^7.32.0 || ^8.2.0",
