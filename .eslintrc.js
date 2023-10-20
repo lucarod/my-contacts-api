@@ -22,5 +22,9 @@ module.exports = {
     ecmaVersion: 'latest',
   },
   rules: {
+    'class-methods-use-this': 'off',
+    'import/no-extraneous-dependencies': 'off',
+    'consistent-return': 'off',
+    camelcase: 'off',
   },
 };
